@@ -1,0 +1,24 @@
+.bg {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff, #ffffff);
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: black;
+  font-size: 60px;
+}
+.para {
+  color: #334155;
+  font-size: 30px;
+}
+.btnn {
+  color: #334155;
+  background-color: #bfe9ff;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 5px;
+}
